@@ -1,7 +1,7 @@
 // js/pixabay-api.js
 import axios from 'axios';
 
-const API_KEY = '19396225-c483f75d28f30d4068a3a7270'; // <-- Замініть на свій ключ
+const API_KEY = '19396225-c483f75d28f30d4068a3a7270'; 
 const BASE_URL = 'https://pixabay.com/api/';
 
 /**
